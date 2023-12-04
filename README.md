@@ -58,18 +58,6 @@ TODO
 ---
 # T.Central
 
-## Recursos compartidos con partners
-- Repositorio de firmware de dispositivos
-- Repositorio de perfiles de dispositivos
-- Repositorio de dashboards modelos (con instrucciones)
-- API de telemetría y comandos de los dispositivos
-
-## Nuevo Partner
-1. TD crea el partner en T.Cental, automaticamente se crea un tenant en T.Data.
-2. TD(microservicios) debe configurar los microservicios dedicados a ese tenant.
-3. TD debe cargar, mediante un csv, los dispositivos vendidos en la cuenta del partner desde T.Central.
-4. El partner recibe las credenciales de administrador
-
 ## Clientes del partner
 El partner puede registrar sus clientes o importarlos de T.Data.
 
