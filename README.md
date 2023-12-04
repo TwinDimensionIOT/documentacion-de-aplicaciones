@@ -12,7 +12,7 @@ En **TwinDimension**, nos enorgullece presentar una revolución en el mundo del 
 
 - **Dashboards Personalizables:** Crea y personaliza tus propios dashboards para visualizar datos de telemetría de manera fácil y rápida. Con **T.Data**, cada cliente tiene la capacidad de construir su experiencia única.
 
-- **Gestión sencilla de configuraciones de dispositivos:** Con **T.Wizard** reduce significativamente la curva de implementación de configuraciones complejas. Con esta herramienta, hemos diseñado una experiencia que permite a los usuarios adoptar de manera más fácil y rápida servicios satelitales de primera línea
+- **Gestión sencilla de configuraciones de dispositivos:** Con **T.Wizard** reduce significativamente la curva de implementación de configuraciones complejas. Con esta herramienta, hemos diseñado una experiencia que permite a los usuarios adoptar de manera más fácil y rápida servicios satelitales de primera línea.
 
 ## Nuestra Misión: Democratizar el IoT en la Industria
 
@@ -37,9 +37,9 @@ Experimenta una nueva era de innovación con **TwinDimension**. Únete a la revo
 
 ## T.Edge: familias de dispositivos
 
-TODO
+TODO M.A.C.R.O. (Modulares, Autoprogramables, Conectados, Robustos, O...)
 
-## T.Connectivity: conectividad total
+## T.Connectivity: conectividad total
 
 TODO
 
@@ -56,3 +56,28 @@ Con un diseño intuitivo, gestiona a tus clientes, asignales dispositivos con fa
 TODO
 
 ---
+# T.Central
+
+## Recursos compartidos con partners
+- Repositorio de firmware de dispositivos
+- Repositorio de perfiles de dispositivos
+- Repositorio de dashboards modelos (con instrucciones)
+- API de telemetría y comandos de los dispositivos
+
+## Nuevo Partner
+1. TD crea el partner en T.Cental, automaticamente se crea un tenant en T.Data.
+2. TD(microservicios) debe configurar los microservicios dedicados a ese tenant.
+3. TD debe cargar, mediante un csv, los dispositivos vendidos en la cuenta del partner desde T.Central.
+4. El partner recibe las credenciales de administrador
+
+## Clientes del partner
+El partner puede registrar sus clientes o importarlos de T.Data
+
+## Dispositivos del partner
+El partner puede gestionar sus dispositivos, asignarlos a sus clientes, definir el plan de comunicación que utilizarán, activar el plan o cambiarlo.
+
+## Origenes de datos
+El partner puede gestionar sus origenes de datos, que le permiten conectar T.Data a otras nubes soportadas como Orbcomm, Scania, John Deere, entre otras. Asi mismo el partner podrá seleccionar el plan más apropiado para esta integración de dispositivos.
+
+## Colaboradores
+El partner puede gestionar usuarios colaboradores ya sea para la administración de planes en T.Central, la operación en T.Data o configuración en T.Wizard.
