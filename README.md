@@ -71,13 +71,17 @@ TODO
 4. El partner recibe las credenciales de administrador
 
 ## Clientes del partner
-El partner puede registrar sus clientes o importarlos de T.Data
+El partner puede registrar sus clientes o importarlos de T.Data.
+https://app.twindimension.com/customers
 
 ## Dispositivos del partner
 El partner puede gestionar sus dispositivos, asignarlos a sus clientes, definir el plan de comunicación que utilizarán, activar el plan o cambiarlo.
+https://app.twindimension.com/devices-manager
 
 ## Origenes de datos
 El partner puede gestionar sus origenes de datos, que le permiten conectar T.Data a otras nubes soportadas como Orbcomm, Scania, John Deere, entre otras. Asi mismo el partner podrá seleccionar el plan más apropiado para esta integración de dispositivos.
+https://app.twindimension.com/datasources-manager
 
 ## Colaboradores
 El partner puede gestionar usuarios colaboradores ya sea para la administración de planes en T.Central, la operación en T.Data o configuración en T.Wizard.
+https://app.twindimension.com/users
