@@ -1,3 +1,34 @@
+# Getting Started
+
+## Cómo funcionan las suscripciones y activaciones? 
+Por defecto los dispositivos vendrán con una suscripción nivel cero, la cual está pensada para permitir testear la comunicación del dispositivo a la nube mediante un servicio celular limitado.
+En https://app.twindimension.com/devices podrá ver todos los dispositivos adquiridos con TwinDimension y la suscripción que tiene cada uno.
+Como Tenant usted podrá elegir una suscripción de otro nivel para la operación. Es importante entender que una vez seleccionado un nuevo plan, la suscripción no estará activa, hasta que se solicite la activación en la misma pantalla. Esta activación puede realizarla tanto un tenant como un cliente, ya que una vez realizada la activación, se empezará a cobrar la tarifa del nuevo plan.
+
+## Cómo agrego un dispositivo TwinDimension?
+Para agregar dispositivos, es necesario comunicarse con el area comercial de TwinDimension y realizar la operación comercial pertinente. Cerrada esa operación los dispositivos adquiridos apareceran en https://app.twindimension.com/devices
+
+## Cómo agrego un dispositivo propio?
+Para agregar dispositivos propios, como tenant deberá disponer de un origen de datos propio. Los origenes de datos soportados son los siguientes:
+- Orbcomm
+- John Deere
+- TODO...
+Ingrese a https://app.twindimension.com/dataorigin-manager para registrar las credenciales de un origen de datos propio, y a continuación deberá seleccionar un plan acorde a sus necesidades. Los dispositivos del origen registrado aparecerán en https://tdata.tesacom.net y podrán ser utilizados junto a los dispositivos que disponga el tenant.
+
+## Cómo defino lo que reporta un dispositivo?
+TwinDimension ofrece un repositorio con los perfiles de los dispositivos disponibles. Descargue los archivos json que necesite para su caso.
+Luego en https://tdata.tesacom.net dirijase a 'Profiles/Perfiles de dispositivos' e importe los archivos de perfiles que descargó previamente.
+Puede modificar los perfiles a su necesidad.
+Luego dirijase a 'Entidades/dispositivos' y cambie los perfiles a los dispositivos que necesite. (Herramienta próximamente)
+
+## Cómo creo un panel para un cliente?
+TwinDimension ofrece un repositorio con paneles base. Descargue los archivos json de los paneles que sean más acordes a sus necesidades.
+Luego en https://tdata.tesacom.net dirijase a 'Paneles' e importe los archivos de paneles que descargó previamente.
+Puede modificar los paneles para que funcionen con sus dispositivos o modificarlos con nuevos widgets.
+Puede crear un panel desde cero siguiendo los tutoriales (próximamente).
+
+---
+
 # Revoluciona tus procesos industriales con T.Platform
 
 En **TwinDimension**, nos enorgullece presentar una revolución en el mundo del Internet de las cosas industrial. Presentamos **T.Platform**, un stack integral diseñado para simplificar y potenciar la implementación de proyectos de IoT industrial en las empresas.
