@@ -13,7 +13,7 @@ Para agregar dispositivos propios, como tenant deberá disponer de un origen de 
 - Orbcomm
 - John Deere
 - TODO...
-Ingrese a https://app.twindimension.com/datasources-manager para registrar las credenciales de un origen de datos propio, y a continuación deberá seleccionar un plan acorde a sus necesidades. Los dispositivos del origen registrado aparecerán en https://tdata.tesacom.net y podrán ser utilizados junto a los dispositivos que disponga el tenant.
+Ingrese a https://app.twindimension.com/datasources para registrar las credenciales de un origen de datos propio, y a continuación deberá seleccionar un plan acorde a sus necesidades. Los dispositivos del origen registrado aparecerán en https://tdata.tesacom.net y podrán ser utilizados junto a los dispositivos que disponga el tenant.
 
 ## Cómo defino lo que reporta un dispositivo?
 TwinDimension ofrece un repositorio con los perfiles de los dispositivos disponibles. Descargue los archivos json que necesite para su caso.
